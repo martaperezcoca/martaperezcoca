@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Marta Pérez-Coca 👋</h1>
+<h1 align="center">Hi there, I'm Marta Perez-Coca 👋</h1>
 <h3 align="center">💻 Aspiring Software Developer | 🎬 Filmmaker | 🌊 Ocean Enthusiast</h3>
 
 - 🌱 I’m currently learning Full-stack development at TripleTen
